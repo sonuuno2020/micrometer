@@ -10,8 +10,16 @@ To run the application :
 4. run the application
 
 > Second Method :
-download the jar file from src/target and run it:
+
+download the jar file from src/target and run it:-
 command : java -jar <jar_file_name>.jar
+
+### Fetch application metrics :
+run the script file: This script curl the application endpoints in an infinite loop.
+In directory of run.sh file ----
+command : ./run.sh
+
+To see the application metrics : `http://localhost:8080/actuator/prometheus`
 
 
  
