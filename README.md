@@ -11,7 +11,7 @@ To run the application :
 
 > Second Method :
 
-download the jar file from src/target and run it:-
+download the jar file and run it:-
 command : java -jar <jar_file_name>.jar
 
 ### Fetch application metrics :
